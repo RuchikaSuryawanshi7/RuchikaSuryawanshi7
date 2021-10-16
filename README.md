@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/code.jpg"/></a>
+<a href="#"><img width="100%" height="30%" src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/code.jpg"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruchika Suryawasnhi</h1>
 <h3 align="center">I'm a passionate Researcher and Developer</h3>
