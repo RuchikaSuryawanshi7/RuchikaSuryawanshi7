@@ -1,7 +1,7 @@
 <a href="#"><img src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/code.jpg" width="1000px" height="400px" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruchika Suryawasnhi</h1>
-<h3 align="center">I'm a passionate Researcher and Developer</h3>
+<h3 align="center">A Passionate Researcher and Developer</h3>
 
 
 ## 🙋‍♂️ About Me
