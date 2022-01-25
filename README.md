@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-
+- Developing applications are developed and simple hacks while **Exploring newer technologies.**
 - 📫 How to reach me **ruchikasuryawanshi710@gmail.com**
 
 ## 🚀 Languages and Tools:
