@@ -12,7 +12,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<!-- <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -30,7 +30,7 @@
     <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/></a>
     <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/> </a>
     <a href="https://git-scm.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a href="https://figma.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
+    <a href="https://figma.com" target="_blank">  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a> -->
    
   
 </p>
