@@ -1,6 +1,6 @@
 <a href="#"><img src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/co.jpg" width="1000px" height="400px" /></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruchika Suryawanshi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="40px">, I'm Ruchika Suryawanshi</h1>
 <h3 align="center">A Passionate Researcher and Developer</h3>
 
 
