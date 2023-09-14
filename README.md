@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently exploring **AWS & Cloud Applications**
 - I love to develop applications & simple hacks while **Exploring newer technologies.**
 - 📫 How to reach me **ruchikasuryawanshi710@gmail.com**
 
